@@ -6,7 +6,7 @@ var Robot = {
     speed: 10,
     strength: 5,
     armour: "light",
-
+    
     AddFuel: function (tank){
         fuel += tank;
     },
